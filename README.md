@@ -89,4 +89,4 @@ This project demonstrates how telecom KPIs can be transformed into actionable in
 ## 👤 Author
 **Light Amadi**  
 Telecom Network Performance Project  
-🌐 [www.linkedin.com/in/light-a-942628360]
+🌐 [www.linkedin.com/in/light-amadi-942628360]
